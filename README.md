@@ -1,0 +1,5 @@
+- 👋 Hello, I’m @Hardyn1 !
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning the markup languages "Html, Css" and of course JavaScript ! 
+- 💞️ I’m looking to collaborate on some interesting projects, i need experience and a good team )
+- 📫 You can write me on my email amki.business@gmail.com
